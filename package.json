@@ -1,6 +1,6 @@
 {
   "name": "mcp-shark",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Wireshark-like forensic analysis for Model Context Protocol communications  Capture, inspect, and investigate all HTTP requests and responses between your IDE and MCP servers",
   "main": "src/index.js",
   "scripts": {
